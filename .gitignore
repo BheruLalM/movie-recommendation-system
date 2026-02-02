@@ -61,7 +61,7 @@ venv.bak/
 htmlcov/
 
 # Large Data Files (pickle files are large)
-*.pkl
+# *.pkl  # Commented out - including pkl files in repo
 
 # OS
 Thumbs.db
